@@ -6,6 +6,6 @@
 
 ## Notes
 
-To comply with USC's Academic Code, the source code is securely stored within token_bucket.zip and requires a decryption key to access.
+To comply with USC's Academic Code, the source code is securely stored within the zip file and requires a decryption key to access.
 
-If you are a potential employer interested in reviewing the code, please feel free to contact me via [email](mailto:amylee.lyq@gmail.com).
+If you are a potential employer interested in reviewing the code, please use the first 6 characters of my email address provided in the resume as password.
